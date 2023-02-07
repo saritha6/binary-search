@@ -136,3 +136,4 @@ void binarynonrecur(int n,int arr[n],int beg,int end,int val)	//Non-Recursion Fu
 	if(pos==-1)
 		printf("\nelement %d does not found in the array using Non-Recursion",val);
 }
+dhsd
